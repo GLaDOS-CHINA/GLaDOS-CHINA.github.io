@@ -1,0 +1,242 @@
+[
+  {
+    "id": "railway",
+    "title": "高鐵分割",
+    "category": "travel",
+    "description": "列車掠過高架橋，橋身與藍天形成交錯的線條。",
+    "width": 2000,
+    "height": 1332,
+    "thumbWidth": 900,
+    "thumbHeight": 599
+  },
+  {
+    "id": "baggage-cart",
+    "title": "行李車",
+    "category": "travel",
+    "description": "停機坪上的黃色行李牽引車與綠色覆布。",
+    "width": 2000,
+    "height": 1282,
+    "thumbWidth": 900,
+    "thumbHeight": 577
+  },
+  {
+    "id": "bridge-rhythm",
+    "title": "橋墩・秩序",
+    "category": "travel",
+    "description": "橋墩、拱形與水面倒影組成重複的幾何形狀。",
+    "width": 2000,
+    "height": 1333,
+    "thumbWidth": 900,
+    "thumbHeight": 600
+  },
+  {
+    "id": "airport-roof",
+    "title": "機場屋頂",
+    "category": "travel",
+    "description": "深藍屋頂下，燈管與金屬結構交錯延伸。",
+    "width": 1413,
+    "height": 2000,
+    "thumbWidth": 636,
+    "thumbHeight": 900
+  },
+  {
+    "id": "train-window",
+    "title": "薄霧車站",
+    "category": "travel",
+    "description": "透過車窗，看見薄霧與遠處城市的輪廓。",
+    "width": 2000,
+    "height": 1413,
+    "thumbWidth": 900,
+    "thumbHeight": 636
+  },
+  {
+    "id": "chimney",
+    "title": "煙囪色彩",
+    "category": "travel",
+    "description": "藍天下的條紋煙囪、白煙與彩色屋頂。",
+    "width": 1413,
+    "height": 2000,
+    "thumbWidth": 636,
+    "thumbHeight": 900
+  },
+  {
+    "id": "sunset-fishing",
+    "title": "落日垂釣",
+    "category": "nature",
+    "description": "夕陽映亮海面，岸邊的釣者留下一道剪影。",
+    "width": 1720,
+    "height": 2000,
+    "thumbWidth": 774,
+    "thumbHeight": 900
+  },
+  {
+    "id": "cloud-reflection",
+    "title": "雲的倒影",
+    "category": "nature",
+    "description": "水面映出暮色雲層與城市的倒影。",
+    "width": 1468,
+    "height": 2000,
+    "thumbWidth": 661,
+    "thumbHeight": 900
+  },
+  {
+    "id": "underwater",
+    "title": "海底海星",
+    "category": "nature",
+    "description": "淺水中的海星與石塊，被流動的水紋重新描繪。",
+    "width": 2000,
+    "height": 1282,
+    "thumbWidth": 900,
+    "thumbHeight": 577
+  },
+  {
+    "id": "lake-poles",
+    "title": "湖中線條",
+    "category": "nature",
+    "description": "平靜的湖水裡，細桿與線條劃出簡約的構圖。",
+    "width": 1413,
+    "height": 2000,
+    "thumbWidth": 636,
+    "thumbHeight": 900
+  },
+  {
+    "id": "meadow-motion",
+    "title": "草地・流動",
+    "category": "nature",
+    "description": "綠色與淺色的模糊色帶，構成抽象的自然印象。",
+    "width": 1413,
+    "height": 2000,
+    "thumbWidth": 636,
+    "thumbHeight": 900
+  },
+  {
+    "id": "frangipani",
+    "title": "暗處的雞蛋花",
+    "category": "nature",
+    "description": "暗綠葉片之間，一朵白色雞蛋花迎向光。",
+    "width": 1413,
+    "height": 2000,
+    "thumbWidth": 636,
+    "thumbHeight": 900
+  },
+  {
+    "id": "flamingos",
+    "title": "火烈鳥",
+    "category": "life",
+    "description": "深色背景裡，火烈鳥的粉紅羽毛與曲線相互呼應。",
+    "width": 1422,
+    "height": 2000,
+    "thumbWidth": 640,
+    "thumbHeight": 900
+  },
+  {
+    "id": "white-fox",
+    "title": "白狐的凝視",
+    "category": "life",
+    "description": "白狐近距離的目光與細緻蓬鬆的毛髮。",
+    "width": 2000,
+    "height": 1331,
+    "thumbWidth": 900,
+    "thumbHeight": 599
+  },
+  {
+    "id": "giraffe",
+    "title": "長頸鹿的眼睛",
+    "category": "life",
+    "description": "近距離觀察長頸鹿的眼睛、睫毛與斑紋。",
+    "width": 2000,
+    "height": 1332,
+    "thumbWidth": 900,
+    "thumbHeight": 599
+  },
+  {
+    "id": "black-swans",
+    "title": "兩隻黑天鵝",
+    "category": "life",
+    "description": "兩隻黑天鵝相伴游過帶有綠色倒影的水面。",
+    "width": 2000,
+    "height": 1328,
+    "thumbWidth": 900,
+    "thumbHeight": 598
+  },
+  {
+    "id": "lemur",
+    "title": "回望",
+    "category": "life",
+    "description": "樹幹旁的動物回望鏡頭，枝條與背景交錯。",
+    "width": 2000,
+    "height": 1343,
+    "thumbWidth": 900,
+    "thumbHeight": 604
+  },
+  {
+    "id": "kangaroo",
+    "title": "力量與靜止",
+    "category": "life",
+    "description": "樹旁站立的袋鼠，呈現肌肉線條與安靜的姿態。",
+    "width": 1369,
+    "height": 2000,
+    "thumbWidth": 616,
+    "thumbHeight": 900
+  },
+  {
+    "id": "folding-fan",
+    "title": "半臉折扇",
+    "category": "people",
+    "description": "黑色折扇遮住半張臉，目光從扇緣上方望向鏡頭。",
+    "width": 1562,
+    "height": 2000,
+    "thumbWidth": 703,
+    "thumbHeight": 900
+  },
+  {
+    "id": "blue-dress",
+    "title": "藍裙・舞步",
+    "category": "people",
+    "description": "展場燈光之下，藍白裙裝與抬起的腳形成輕盈姿態。",
+    "width": 1301,
+    "height": 2000,
+    "thumbWidth": 585,
+    "thumbHeight": 900
+  },
+  {
+    "id": "window-portrait",
+    "title": "青色窗前",
+    "category": "people",
+    "description": "明亮的青色窗框前，一幅藍白色調的人像。",
+    "width": 1312,
+    "height": 2000,
+    "thumbWidth": 590,
+    "thumbHeight": 900
+  },
+  {
+    "id": "cosplay",
+    "title": "銀狼",
+    "category": "people",
+    "description": "灰色背景前的角色人像，銀髮與藍色服飾相互映襯。",
+    "width": 1413,
+    "height": 2000,
+    "thumbWidth": 636,
+    "thumbHeight": 900
+  },
+  {
+    "id": "prayer",
+    "title": "祈願",
+    "category": "people",
+    "description": "紅色廟宇長廊裡，一個雙手合十的安靜時刻。",
+    "width": 1377,
+    "height": 2000,
+    "thumbWidth": 620,
+    "thumbHeight": 900
+  },
+  {
+    "id": "looking-back",
+    "title": "回眸",
+    "category": "people",
+    "description": "沿著綠色圍欄與小徑，遠處的人回身看向鏡頭。",
+    "width": 2000,
+    "height": 1327,
+    "thumbWidth": 900,
+    "thumbHeight": 597
+  }
+]
