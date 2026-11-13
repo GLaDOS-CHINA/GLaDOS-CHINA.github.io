@@ -7,7 +7,15 @@
     "width": 2000,
     "height": 1332,
     "thumbWidth": 900,
-    "thumbHeight": 599
+    "thumbHeight": 599,
+    "crop": [
+      0,
+      0,
+      2000,
+      1332
+    ],
+    "titleEn": "Passing Lines",
+    "descriptionEn": "A passing train, an elevated railway and blue sky form intersecting lines."
   },
   {
     "id": "baggage-cart",
@@ -17,7 +25,15 @@
     "width": 2000,
     "height": 1282,
     "thumbWidth": 900,
-    "thumbHeight": 577
+    "thumbHeight": 577,
+    "crop": [
+      0,
+      0,
+      2000,
+      1282
+    ],
+    "titleEn": "Baggage Cart",
+    "descriptionEn": "A yellow airport tug pulls baggage covered in green canvas."
   },
   {
     "id": "bridge-rhythm",
@@ -27,7 +43,15 @@
     "width": 2000,
     "height": 1333,
     "thumbWidth": 900,
-    "thumbHeight": 600
+    "thumbHeight": 600,
+    "crop": [
+      0,
+      0,
+      2000,
+      1333
+    ],
+    "titleEn": "Rhythm of the Bridge",
+    "descriptionEn": "Bridge piers, arches and reflections repeat across the water."
   },
   {
     "id": "airport-roof",
@@ -37,7 +61,15 @@
     "width": 1413,
     "height": 2000,
     "thumbWidth": 636,
-    "thumbHeight": 900
+    "thumbHeight": 900,
+    "crop": [
+      39,
+      0,
+      1374,
+      2000
+    ],
+    "titleEn": "Under the Airport Roof",
+    "descriptionEn": "Lights and metal structures cross beneath a deep blue roof."
   },
   {
     "id": "train-window",
@@ -47,7 +79,15 @@
     "width": 2000,
     "height": 1413,
     "thumbWidth": 900,
-    "thumbHeight": 636
+    "thumbHeight": 636,
+    "crop": [
+      0,
+      124,
+      2000,
+      1289
+    ],
+    "titleEn": "City Through a Train Window",
+    "descriptionEn": "Mist softens the distant city beyond the train window."
   },
   {
     "id": "chimney",
@@ -57,7 +97,51 @@
     "width": 1413,
     "height": 2000,
     "thumbWidth": 636,
-    "thumbHeight": 900
+    "thumbHeight": 900,
+    "crop": [
+      38,
+      0,
+      1375,
+      2000
+    ],
+    "titleEn": "Chimney in Colour",
+    "descriptionEn": "A striped chimney and white smoke rise above a colourful roof."
+  },
+  {
+    "id": "airport-escalator",
+    "title": "向光而上",
+    "category": "travel",
+    "description": "機場的扶梯向明亮窗邊延伸，藍色屋頂與金屬線條交錯。",
+    "width": 1413,
+    "height": 2000,
+    "thumbWidth": 636,
+    "thumbHeight": 900,
+    "crop": [
+      47,
+      0,
+      1365,
+      2000
+    ],
+    "titleEn": "Towards the Light",
+    "descriptionEn": "An airport escalator rises towards bright windows beneath a blue roof."
+  },
+  {
+    "id": "temple-gate",
+    "title": "磚塔之門",
+    "category": "travel",
+    "description": "彩色磚牆與層疊紋樣，圍出一扇深色的拱門。",
+    "width": 2000,
+    "height": 1413,
+    "thumbWidth": 900,
+    "thumbHeight": 636,
+    "crop": [
+      0,
+      42,
+      2000,
+      1372
+    ],
+    "titleEn": "The Brickwork Gate",
+    "descriptionEn": "Layers of patterned brickwork surround a dark arched doorway."
   },
   {
     "id": "sunset-fishing",
@@ -67,7 +151,15 @@
     "width": 1720,
     "height": 2000,
     "thumbWidth": 774,
-    "thumbHeight": 900
+    "thumbHeight": 900,
+    "crop": [
+      0,
+      0,
+      1720,
+      2000
+    ],
+    "titleEn": "Fishing at Sunset",
+    "descriptionEn": "A lone angler is silhouetted against a glowing sea and sunset."
   },
   {
     "id": "cloud-reflection",
@@ -77,7 +169,15 @@
     "width": 1468,
     "height": 2000,
     "thumbWidth": 661,
-    "thumbHeight": 900
+    "thumbHeight": 900,
+    "crop": [
+      0,
+      0,
+      1468,
+      2000
+    ],
+    "titleEn": "Reflected Clouds",
+    "descriptionEn": "Evening clouds and city buildings appear in the water below."
   },
   {
     "id": "underwater",
@@ -87,7 +187,15 @@
     "width": 2000,
     "height": 1282,
     "thumbWidth": 900,
-    "thumbHeight": 577
+    "thumbHeight": 577,
+    "crop": [
+      0,
+      0,
+      2000,
+      1282
+    ],
+    "titleEn": "Beneath the Surface",
+    "descriptionEn": "Moving ripples redraw the starfish and stones in shallow water."
   },
   {
     "id": "lake-poles",
@@ -97,7 +205,15 @@
     "width": 1413,
     "height": 2000,
     "thumbWidth": 636,
-    "thumbHeight": 900
+    "thumbHeight": 900,
+    "crop": [
+      39,
+      0,
+      1374,
+      2000
+    ],
+    "titleEn": "Lines on the Lake",
+    "descriptionEn": "Slender poles and wires trace a quiet composition across the lake."
   },
   {
     "id": "meadow-motion",
@@ -107,7 +223,15 @@
     "width": 1413,
     "height": 2000,
     "thumbWidth": 636,
-    "thumbHeight": 900
+    "thumbHeight": 900,
+    "crop": [
+      40,
+      0,
+      1375,
+      2000
+    ],
+    "titleEn": "Meadow in Motion",
+    "descriptionEn": "Soft green and pale bands turn the landscape into an abstraction."
   },
   {
     "id": "frangipani",
@@ -117,7 +241,51 @@
     "width": 1413,
     "height": 2000,
     "thumbWidth": 636,
-    "thumbHeight": 900
+    "thumbHeight": 900,
+    "crop": [
+      5,
+      0,
+      1407,
+      2000
+    ],
+    "titleEn": "Frangipani in the Shade",
+    "descriptionEn": "A white frangipani flower catches the light among dark leaves."
+  },
+  {
+    "id": "pool-ripples",
+    "title": "水光織紋",
+    "category": "nature",
+    "description": "藍色泳池的水波與池底網格，交織出細密的光紋。",
+    "width": 1413,
+    "height": 2000,
+    "thumbWidth": 636,
+    "thumbHeight": 900,
+    "crop": [
+      39,
+      0,
+      1376,
+      2000
+    ],
+    "titleEn": "Woven Light",
+    "descriptionEn": "Blue ripples and a tiled pool floor weave a fine pattern of light."
+  },
+  {
+    "id": "reeds",
+    "title": "蘆葦之間",
+    "category": "nature",
+    "description": "逆光裡的蘆葦與遠處人影，呈現細緻而朦朧的層次。",
+    "width": 1536,
+    "height": 1024,
+    "thumbWidth": 900,
+    "thumbHeight": 600,
+    "crop": [
+      0,
+      0,
+      1536,
+      1024
+    ],
+    "titleEn": "Among the Reeds",
+    "descriptionEn": "Backlit reeds and distant figures form soft, textured layers."
   },
   {
     "id": "flamingos",
@@ -127,7 +295,15 @@
     "width": 1422,
     "height": 2000,
     "thumbWidth": 640,
-    "thumbHeight": 900
+    "thumbHeight": 900,
+    "crop": [
+      0,
+      0,
+      1422,
+      2000
+    ],
+    "titleEn": "Flamingos",
+    "descriptionEn": "Pink feathers and curved necks echo against a dark background."
   },
   {
     "id": "white-fox",
@@ -137,7 +313,15 @@
     "width": 2000,
     "height": 1331,
     "thumbWidth": 900,
-    "thumbHeight": 599
+    "thumbHeight": 599,
+    "crop": [
+      0,
+      0,
+      2000,
+      1331
+    ],
+    "titleEn": "The White Fox",
+    "descriptionEn": "A close encounter with a white fox, its gaze and soft fur."
   },
   {
     "id": "giraffe",
@@ -147,7 +331,15 @@
     "width": 2000,
     "height": 1332,
     "thumbWidth": 900,
-    "thumbHeight": 599
+    "thumbHeight": 599,
+    "crop": [
+      0,
+      0,
+      2000,
+      1332
+    ],
+    "titleEn": "Eye of the Giraffe",
+    "descriptionEn": "A close study of a giraffe’s eye, eyelashes and patterned coat."
   },
   {
     "id": "black-swans",
@@ -157,7 +349,15 @@
     "width": 2000,
     "height": 1328,
     "thumbWidth": 900,
-    "thumbHeight": 598
+    "thumbHeight": 598,
+    "crop": [
+      0,
+      0,
+      2000,
+      1328
+    ],
+    "titleEn": "Two Black Swans",
+    "descriptionEn": "Two black swans glide through green reflections on the water."
   },
   {
     "id": "lemur",
@@ -167,7 +367,15 @@
     "width": 2000,
     "height": 1343,
     "thumbWidth": 900,
-    "thumbHeight": 604
+    "thumbHeight": 604,
+    "crop": [
+      0,
+      0,
+      2000,
+      1343
+    ],
+    "titleEn": "Looking Back",
+    "descriptionEn": "An animal looks towards the camera among branches and tree trunks."
   },
   {
     "id": "kangaroo",
@@ -177,7 +385,51 @@
     "width": 1369,
     "height": 2000,
     "thumbWidth": 616,
-    "thumbHeight": 900
+    "thumbHeight": 900,
+    "crop": [
+      0,
+      0,
+      1369,
+      2000
+    ],
+    "titleEn": "Strength in Stillness",
+    "descriptionEn": "A standing kangaroo reveals muscular lines in a quiet pose."
+  },
+  {
+    "id": "rhino",
+    "title": "犀牛側影",
+    "category": "life",
+    "description": "犀牛的側臉與粗糙皮膚，在柔和的光中顯出質感。",
+    "width": 2000,
+    "height": 1332,
+    "thumbWidth": 900,
+    "thumbHeight": 599,
+    "crop": [
+      0,
+      0,
+      2000,
+      1332
+    ],
+    "titleEn": "Rhinoceros in Profile",
+    "descriptionEn": "Soft light reveals the contours and textured skin of a rhinoceros."
+  },
+  {
+    "id": "pigeons",
+    "title": "水邊小聚",
+    "category": "life",
+    "description": "幾隻鴿子聚在淺水邊，白色與深色羽毛相互映襯。",
+    "width": 2000,
+    "height": 1413,
+    "thumbWidth": 900,
+    "thumbHeight": 636,
+    "crop": [
+      0,
+      46,
+      2000,
+      1367
+    ],
+    "titleEn": "At the Water’s Edge",
+    "descriptionEn": "Pigeons gather in shallow water, their pale and dark feathers contrasting."
   },
   {
     "id": "folding-fan",
@@ -187,7 +439,15 @@
     "width": 1562,
     "height": 2000,
     "thumbWidth": 703,
-    "thumbHeight": 900
+    "thumbHeight": 900,
+    "crop": [
+      0,
+      0,
+      1562,
+      2000
+    ],
+    "titleEn": "Behind the Fan",
+    "descriptionEn": "A gaze meets the camera above the edge of a black folding fan."
   },
   {
     "id": "blue-dress",
@@ -197,7 +457,15 @@
     "width": 1301,
     "height": 2000,
     "thumbWidth": 585,
-    "thumbHeight": 900
+    "thumbHeight": 900,
+    "crop": [
+      0,
+      0,
+      1301,
+      2000
+    ],
+    "titleEn": "A Step in Blue",
+    "descriptionEn": "A lifted foot and a blue-and-white dress suggest a light dance step."
   },
   {
     "id": "window-portrait",
@@ -207,7 +475,15 @@
     "width": 1312,
     "height": 2000,
     "thumbWidth": 590,
-    "thumbHeight": 900
+    "thumbHeight": 900,
+    "crop": [
+      0,
+      0,
+      1312,
+      2000
+    ],
+    "titleEn": "By the Turquoise Window",
+    "descriptionEn": "A portrait in blue and white, framed by a bright turquoise window."
   },
   {
     "id": "cosplay",
@@ -217,7 +493,15 @@
     "width": 1413,
     "height": 2000,
     "thumbWidth": 636,
-    "thumbHeight": 900
+    "thumbHeight": 900,
+    "crop": [
+      65,
+      0,
+      1348,
+      2000
+    ],
+    "titleEn": "Silver Wolf",
+    "descriptionEn": "Silver hair and blue clothing stand out against a grey backdrop."
   },
   {
     "id": "prayer",
@@ -227,7 +511,15 @@
     "width": 1377,
     "height": 2000,
     "thumbWidth": 620,
-    "thumbHeight": 900
+    "thumbHeight": 900,
+    "crop": [
+      0,
+      0,
+      1377,
+      2000
+    ],
+    "titleEn": "A Quiet Prayer",
+    "descriptionEn": "Hands meet in prayer within the red corridors of a temple."
   },
   {
     "id": "looking-back",
@@ -237,6 +529,50 @@
     "width": 2000,
     "height": 1327,
     "thumbWidth": 900,
-    "thumbHeight": 597
+    "thumbHeight": 597,
+    "crop": [
+      0,
+      0,
+      2000,
+      1327
+    ],
+    "titleEn": "A Turn on the Path",
+    "descriptionEn": "A distant figure turns back along a path beside a green fence."
+  },
+  {
+    "id": "seated-portrait",
+    "title": "靜坐花間",
+    "category": "people",
+    "description": "花枝與石階之間，藍白裙裝的人物安靜坐著。",
+    "width": 1413,
+    "height": 2000,
+    "thumbWidth": 636,
+    "thumbHeight": 900,
+    "crop": [
+      37,
+      0,
+      1377,
+      2000
+    ],
+    "titleEn": "Among Flowers and Stone",
+    "descriptionEn": "A seated figure in blue and white rests among flowers and stone steps."
+  },
+  {
+    "id": "pink-costume",
+    "title": "粉色角色",
+    "category": "people",
+    "description": "展場裡的粉色角色人像，在深色背景前呈現鮮明色彩。",
+    "width": 1449,
+    "height": 2000,
+    "thumbWidth": 652,
+    "thumbHeight": 900,
+    "crop": [
+      0,
+      0,
+      1449,
+      2000
+    ],
+    "titleEn": "A Character in Pink",
+    "descriptionEn": "A pink costume brings vivid colour to a dark exhibition setting."
   }
 ]

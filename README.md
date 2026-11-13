@@ -1,19 +1,25 @@
-# GLaDOS-CHINA · 光的片刻
+# GLaDOS-CHINA · 光的片刻 / Moments of Light
 
-24 件原創攝影作品，四組題材：旅途與秩序、自然與光、生命與凝視、人物與敘事，每組 6 件。
+32 件攝影作品，依旅途與秩序、自然與光、生命與凝視、人物與敘事分為四組，每組 8 件。
+Instagram: [@GLADOSLOVE](https://www.instagram.com/gladoslove/)
 
-## 結構
-- index.html：靜態首頁、題材篩選、原生 dialog 大圖、左右切換與鍵盤操作。
-- assets/photos/：網頁版 WebP 與縮圖。每張作品只展示一次，首頁主圖計入旅途組。
-- assets/gallery.json：公開作品目錄，不含原始檔案路徑或 EXIF。
-- .nojekyll：直接發布靜態檔案。
+## 網站結構
+- index.html：繁體中文首頁。
+- en.html：完整英文版，包含作品題名、描述、替代文字及操作提示。
+- assets/styles.css、assets/gallery.js：共用版面與互動。
+- assets/photos/：WebP 網頁照片及縮圖。
+- assets/gallery.json：作品目錄，含中英文題名、描述及顯示範圍。
+- .nojekyll：靜態發布。
 
 ## 預覽與發布
-直接打開 index.html 即可，不需要安裝依賴。
+直接打開 index.html 或 en.html；不需安裝依賴。語言切換保留目前的題材篩選。
 GitHub Settings → Pages → Deploy from a branch → main → /(root) → Save。
-預期網址：https://glados-china.github.io/
+中文：https://glados-china.github.io/
+English: https://glados-china.github.io/en.html
 
-## 維護
-修改作品時，更新 index.html 中的圖片路徑、作品名、替代文字、分類與尺寸，並同步 assets/gallery.json。全部圖片為本地資產，不依賴外部圖片服務。WebP 長邊最多 2000 像素，縮圖長邊最多 900 像素；校正方向，保留完整構圖與既有水印，不嵌入 EXIF 或原始檔名。未改動原片。
-
-本輯不以「Sony 投稿」作為公開獎項或認證，僅依題材展示作品。
+## 照片與維護
+原始作品未改動。網頁版長邊最多 2000 像素，縮圖最多 900 像素，未嵌入 EXIF、原始檔名或來源路徑。
+12 張含白邊作品在頁面中以精確顯示範圍隱去外緣白邊，縮圖與大圖使用相同範圍；保留照片內容與既有水印。WebP 檔案自身未重新裁切。
+每件作品只在畫廊出現一次，主圖計入旅途組。
+新增作品時同步兩個 HTML 頁面、assets/gallery.json、圖片路徑與每組數量；白邊顯示範圍存於 data-crop 與 .photo-frame 的 CSS 變數。
+不依賴第三方照片服務或字體。分類篩選與大圖支援鍵盤操作。Instagram 連結不使用追蹤嵌入。
